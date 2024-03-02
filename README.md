@@ -1,7 +1,7 @@
 👋 Hello~
 Hello! I'm Jimmy, a tool product enthusiast and product designer, currently working hard to make AI accessible to more people.
 
-Born in the AI era, engage in interesting activities.
+Born in an interesting era, develop some interesting products.
 
 #### My project
 * [Comflowy](https://comflowy.com): An open-source version of better ComfyUI.
